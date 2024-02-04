@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Hanoi",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2024-01-13T13:50:10.476Z",
+      "notes": "",
+      "position": {
+        "lat": "21.02682813712425",
+        "lng": "105.85567474365236"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Ho Chi Minh City",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2024-01-13T13:55:32.911Z",
+      "notes": "",
+      "position": {
+        "lat": "10.787442717183227",
+        "lng": "106.74591064453126"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Sa Pa",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2024-01-13T13:56:12.096Z",
+      "notes": "",
+      "position": {
+        "lat": "22.334515890881534",
+        "lng": "103.84414672851564"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Ha Long",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2024-01-13T13:56:20.527Z",
+      "notes": "",
+      "position": {
+        "lat": "20.964004409178322",
+        "lng": "107.12493896484376"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Ba Ria-Vung Tau",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2024-01-13T13:56:56.953Z",
+      "notes": "",
+      "position": {
+        "lat": "10.374361908438",
+        "lng": "107.22656250000001"
+      },
+      "id": 5
+    }
+  ]
+}
